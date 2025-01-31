@@ -1,3 +1,6 @@
+## Project Reference
+- [Patient Preference Studies Classification Project](https://github.com/adsp-polito/2024-P8-PPS)
+
 ## How to Run
 - [High-Precision Binary Classifier](https://pps-binary-classifier.streamlit.app)
 
